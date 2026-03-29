@@ -18,8 +18,8 @@ NOMBRE = input("PARA CONTINUAR DIME TU NOMBRE: ").upper()
 
 print("HOLA", NOMBRE, "BIENVENIDO")
 
-Num1 = int(input("DIME EL PRIMER VALOR"))
-Num2 = int(input("DIME EL SEGUNDO VALOR"))
+Num1 = int(input("DIME EL PRIMER VALOR: "))
+Num2 = int(input("DIME EL SEGUNDO VALOR: "))
 
 SUMA = Num1 + Num2
 MULTI = Num1 * Num2
